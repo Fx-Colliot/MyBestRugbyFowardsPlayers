@@ -30,6 +30,9 @@ export const Border = styled.div`
   border-radius: 10px;
   box-shadow: 10px 5px 5px #1e3586;
   background-color: #1e3586;
+  &:hover {
+    transform: scale(1.2) translateY(-5vh);
+  }
 `;
 
 export const ContainerPictureName = styled.div`
@@ -78,6 +81,9 @@ export const BorderNz = styled.div`
   border-radius: 10px;
   box-shadow: 10px 5px 5px black;
   background-color: black;
+  &:hover {
+    transform: scale(1.2) translateY(-5vh);
+  }
 `;
 
 export const ContainerPictureNameNz = styled.div`
@@ -114,6 +120,9 @@ export const BorderAus = styled.div`
   border-radius: 10px;
   box-shadow: 10px 5px 5px #396e4a;
   background-color: #f5d465;
+  &:hover {
+    transform: scale(1.2) translateY(-5vh);
+  }
 `;
 
 export const ContainerPictureNameAus = styled.div`
@@ -155,6 +164,9 @@ export const BorderSud = styled.div`
   border-radius: 10px;
   box-shadow: 10px 5px 5px #f4bb32;
   background-color: #274c26;
+  &:hover {
+    transform: scale(1.2) translateY(-5vh);
+  }
 `;
 
 export const ContainerPictureNameSud = styled.div`

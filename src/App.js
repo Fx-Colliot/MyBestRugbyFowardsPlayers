@@ -3,6 +3,7 @@ import { Reset } from 'styled-reset';
 import React from 'react';
 import Cards from './Components/Cards';
 import terrain from './images/terrain.jpg';
+import Title from './Components/Title';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       }}
     >
       <Reset />
+      <Title />
       <Cards />
     </div>
   );

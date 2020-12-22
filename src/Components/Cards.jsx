@@ -120,22 +120,22 @@ export default function Cards() {
               <h3>Poste: Troisième ligne</h3>
               <h3>Pays: France</h3>
               <h3>nb selections: 62</h3>
-              <h3>taille: 1m91</h3>
-              <h3>poids: 115 Kgs</h3>
+              <h3>taille: 1m82</h3>
+              <h3>poids: 100 Kgs</h3>
             </Details>
           </Border>
 
           <BorderNz>
             <ContainerPictureNameNz>
               <Picture src={mccaw} alt="player rugby picture" />
-              <Name>Richie Macaw</Name>
+              <Name>Richie McCaw</Name>
             </ContainerPictureNameNz>
             <DetailsNz>
               <h3>Poste: Troisième ligne</h3>
               <h3>Pays: France</h3>
               <h3>nb selections: 62</h3>
-              <h3>taille: 1m91</h3>
-              <h3>poids: 115 Kgs</h3>
+              <h3>taille: 1m88</h3>
+              <h3>poids: 105 Kgs</h3>
             </DetailsNz>
           </BorderNz>
 
@@ -148,8 +148,8 @@ export default function Cards() {
               <h3>Poste: Troisième ligne</h3>
               <h3>Pays: A. Sud</h3>
               <h3>nb selections: 86</h3>
-              <h3>taille: 2m</h3>
-              <h3>poids: 115 Kgs</h3>
+              <h3>taille: 1m93</h3>
+              <h3>poids: 114 Kgs</h3>
             </DetailsSud>
           </BorderSud>
         </ThirdLine>
